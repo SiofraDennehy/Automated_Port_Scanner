@@ -1,4 +1,4 @@
-[scan_results.txt](https://github.com/user-attachments/files/22140828/scan_results.txt)# Automated_Port_Scanner
+# Automated_Port_Scanner
 <br/>
 
 ## Disclaimer - This tool is intended for educational and authorized security testing only. Do not use it to scan systems you do not own or have explicit permission to test. Unauthorized scanning may be illegal. 
