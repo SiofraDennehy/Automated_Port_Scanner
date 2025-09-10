@@ -9,10 +9,10 @@ This is a Python Script that wraps around **Nmap** to scan ports in a user-speci
 ---
 ## Features:
 
--Multi-threaded scanning for efficiency and to keep output clean and readable
--Asks user for targets, ports and output file for full flexibility
--Clean output to terminal for understanding at a glance
--Saves detailed results to report file with time stamps
+- Multi-threaded scanning for efficiency and to keep output clean and readable
+- Asks user for targets, ports and output file for full flexibility
+- Clean output to terminal for understanding at a glance
+- Saves detailed results to report file with time stamps
 
 ## Requirements:
 
